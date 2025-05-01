@@ -1,6 +1,6 @@
 # aiPowered.engineer
 
-How to use AI to boost your productivity, work smarter and enhance your career.
+Use AI to boost your productivity and quality,  work smarter and enhance your career.
 
 ## Getting started
 
@@ -17,6 +17,12 @@ What do you need to get started?
 ## Interview Prep
 
 ## Writing Presentations
+
+[presentations with ai](presentations/index.md)
+
+## Courses
+
+[courses](courses.md)
 
 ## References
 
